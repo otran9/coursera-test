@@ -4,7 +4,7 @@
 }
 
 .navbar-brand {
-	/*padding-top:	15px;*/
+	
 }
 
 .navbar-brand h1 {
@@ -13,25 +13,51 @@
 	margin-top:		0;
 	margin-bottom:	0;
 	line-height:	0.75;
+	color:			#e70012;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration:	none;
 }
 
-.container {
+#nav-list {
+	background-color:	#e5d198;
+}
+
+#nav-list a {
+	text-align:	center;
+	color:			#e70012;
+}
+
+header .container {
 	margin-left: 0;
+}
+
+.menuItem {
+	height:				1000px;
+	background-color:	#e5d198;
+	width:				90%;
+	margin: 			5%;
+}
+
+.itemName {
+	text-align:		center;
+	font-weight:	bold;
+	font-size:		1.5em;
+	padding:		1%;
+	color:	#e70012;
+}
+
+.itemDescription {
+
+}
+
+h1 {
+	text-align: 	center;
+	font-size:		2em;
+	font-weight:	bold;
 }
 
 /*
 
-h1 {
-	margin: auto;
-	margin:	0;
-	align-items: center;
-}
-
-.navbar {
-	margin-bottom: 0px;
-}
 */
