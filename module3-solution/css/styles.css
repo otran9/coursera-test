@@ -1,10 +1,6 @@
 #header-nav {
 	border-radius:	0;
-	border:			0;
-}
-
-.navbar-brand {
-	
+	border-bottom:	1px solid black;
 }
 
 .navbar-brand h1 {
@@ -20,13 +16,19 @@
 	text-decoration:	none;
 }
 
+.navbar-collapse {
+	padding:	0;
+}
+
 #nav-list {
 	background-color:	#e5d198;
+	text-align:			center;
+	margin:				0;
 }
 
 #nav-list a {
-	text-align:	center;
-	color:			#e70012;
+	color:		#e70012;
+	border-top:	1px solid black;
 }
 
 header .container {
