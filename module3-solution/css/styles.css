@@ -1,6 +1,6 @@
 #header-nav {
 	border-radius:	0;
-	border-bottom:	1px solid black;
+	border-bottom:	1px solid #000000;
 }
 
 .navbar-brand h1 {
@@ -28,7 +28,7 @@
 
 #nav-list a {
 	color:		#e70012;
-	border-top:	1px solid black;
+	border-top:	1px solid #000000;
 }
 
 header .container {
