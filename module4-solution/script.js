@@ -28,8 +28,7 @@ assignment.
 WARNING!!! WARNING!!!
 
 */
-helloSpeaker.speak();
-byeSpeaker.speak();
+
 // STEP 1:
 // Wrap the entire contents of script.js inside of an IIFE
 // See Lecture 52, part 2
